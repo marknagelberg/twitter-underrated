@@ -6,7 +6,7 @@ calculate user's TURI (Twitter Underrated Index): an index that attempts to
 figure out who is underrated on Twitter and therefore a good candidate to
 follow.
 
-[This corresponding blog post]() goes into more detail about the reasoning
+[This corresponding blog post](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index) goes into more detail about the reasoning
 behind the index and how it works.
 
 To run the code, you have to add a file to the main directory called
